@@ -2,7 +2,7 @@
 
 Clone repository ini
 ```sh
-git clone https://github.com/rikijoniiskandar/git-anak-magang
+git clone https://github.com/rikijoniiskandar/git-anak-magang.git
 ```
 
 masuk kedalam folder
