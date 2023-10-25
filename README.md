@@ -11,6 +11,7 @@ cd git-anak-magang
 ```
 
 ## Tugas
+- Fork repository ini
 - Buat branch baru sesuai nama kalian
 - Buat folder baru namanya sesuai nama kalian
 - Didalam folder baru buat 2 file baru namanya  index.html & script.js
