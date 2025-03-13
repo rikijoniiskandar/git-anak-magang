@@ -1,4 +1,4 @@
-# LATIHAN GIT FOR INTERN SMK
+# GIT CHALLENGE FOR INTERNS
 
 ## Tugas
 - Fork repository ini
